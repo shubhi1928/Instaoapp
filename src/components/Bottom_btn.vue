@@ -15,7 +15,7 @@ flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 10px 15px;
-
+ color: white;
 position: static;
 width: 418px;
 height: 40px;
