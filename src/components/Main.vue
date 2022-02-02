@@ -57,7 +57,6 @@ export default {
     font-weight: 600;
     font-size: 14px;
     line-height: 20px;
-    letter-spacing: 0.01em;
     text-transform: uppercase;
     color: #9CA3AF;
     flex-grow: 0;
