@@ -27,9 +27,8 @@ export default {
 <style>
 #page{
 position: relative;
-width: 1600px;
 height: 900px;
-
+/* width:1520px; */
 background: #EDE9FE;
 border-radius: 20px;
 }
