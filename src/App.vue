@@ -35,7 +35,7 @@ body{
 #page{
 position: relative;
 height: 900px;
-width:1500px;
+width:100%;
 background: #EDE9FE;
 border-radius: 20px;
 }
