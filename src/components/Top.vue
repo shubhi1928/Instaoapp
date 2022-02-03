@@ -1,5 +1,5 @@
 <template>
-<div class="sticky top-0" id="header">
+<div  id="header">
    <img id="logo" src="../assets/Logo.png">
     <div id="text"><p >Logoooo</p></div>
 </div>

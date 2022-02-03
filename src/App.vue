@@ -25,10 +25,17 @@ export default {
 </script>
 
 <style>
+::-webkit-scrollbar {
+  display: none;
+}
+
+body{
+ background: #EDE9FE; ;
+}
 #page{
 position: relative;
 height: 900px;
-/* width:1520px; */
+width:1500px;
 background: #EDE9FE;
 border-radius: 20px;
 }
