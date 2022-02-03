@@ -1,6 +1,6 @@
 <template>
       <div class="grid grid-cols-2"  id="top_button"> 
-             <div id="box_1">Depost</div>
+             <div id="box_1">Deposit</div>
              <div id="box_2">My orders</div>
         </div>
 </template>
