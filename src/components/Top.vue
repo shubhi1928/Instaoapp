@@ -1,5 +1,5 @@
 <template>
-<div id="header">
+<div class="sticky top-0" id="header">
    <img id="logo" src="../assets/Logo.png">
     <div id="text"><p >Logoooo</p></div>
 </div>
@@ -11,6 +11,7 @@
     export default {
       name: "Top",
       components: {
+
 
       }
     }

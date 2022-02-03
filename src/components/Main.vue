@@ -1,5 +1,5 @@
 <template>
-    <div id="man_form">
+    <div  id="man_form">
         
           <Top_btn />
 
@@ -30,13 +30,17 @@ export default {
 </script>
 <style scoped>
 #man_form{
-    position:relative;
     display: flex;
     justify-content: center;
     padding: 10px;
-    height: 600px;
-    margin:70px 0 0 0;
+    margin:auto;
     top: 69.5px;
+    position: absolute;
+    width: 1320px;
+    height: 600px;
+    left: auto;
+    top: 150px;
+
 }
 
 

@@ -1,8 +1,12 @@
 <template>
-
 <div id="page">
+  <div class="sticky top-0">
      <Top />
-     <Main/>
+</div>
+<div id="main_body">
+   <Main/>
+</div>
+
 </div>
 
 </template>
@@ -23,11 +27,15 @@ export default {
 <style>
 #page{
 position: relative;
-width:1590px;
-height: 1000px;
+width: 1600px;
+height: 900px;
 
 background: #EDE9FE;
 border-radius: 20px;
+}
+#main_body{
+    display: flex;
+    justify-content: center;
 }
 
 </style>

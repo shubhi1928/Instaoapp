@@ -17,6 +17,7 @@ export default {
     width: 468px;
     height: 56px;
     top: 0px;
+    left:auto;
 
     background: #F5F3FF;
     border-radius: 16px;
